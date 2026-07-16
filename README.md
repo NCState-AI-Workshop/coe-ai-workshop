@@ -29,4 +29,4 @@ Follow the instructions in [this document](https://docs.google.com/document/d/1S
 ## Additional Resources
 
 - [Generative AI for Science](https://github.com/jpliu168/Generative_AI_For_Science/tree/main/codes) by Dr. J. Paul Liu, NC State.
-- [How to Build and Fine-Tune a Small Language Model](https://docs.google.com/document/d/1SJMFocH3_k1mdkGQI0btVVrWYuAo2dKbFepedA6Z3wQ/edit?usp=sharing) by Dr. J. Paul Liu, NC State.
+- [How to Build and Fine-Tune a Small Language Model](https://github.com/jpliu168/small_language_model) by Dr. J. Paul Liu, NC State. [Book Code Link](https://rewriting.ai/bookcode/slm.php)
